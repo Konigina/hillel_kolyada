@@ -1,0 +1,17 @@
+5f32daa HEAD@{0}: merge develop: Fast-forward
+fc19eb5 HEAD@{1}: checkout: moving from release to master
+5f32daa HEAD@{2}: merge develop: Fast-forward
+5288582 HEAD@{3}: checkout: moving from test to release
+5f32daa HEAD@{4}: merge develop: Fast-forward
+2da63c9 HEAD@{5}: checkout: moving from develop to test
+5f32daa HEAD@{6}: merge release test: Merge made by the 'octopus' strategy.
+837cc4b HEAD@{7}: checkout: moving from release to develop
+5288582 HEAD@{8}: commit: Added styles.css file to the folder syles on release branch
+837cc4b HEAD@{9}: checkout: moving from develop to release
+837cc4b HEAD@{10}: checkout: moving from test to develop
+2da63c9 HEAD@{11}: commit: Changed index.html file
+a960146 HEAD@{12}: commit: Added folder Images with some images files on test branch
+837cc4b HEAD@{13}: checkout: moving from develop to test
+837cc4b HEAD@{14}: commit: Added index.html file into develop branch
+fc19eb5 HEAD@{15}: checkout: moving from master to develop
+fc19eb5 HEAD@{16}: commit (initial): Added readme.md file
