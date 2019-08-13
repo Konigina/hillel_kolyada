@@ -1,0 +1,46 @@
+a44b3f6 HEAD@{0}: merge develop: Fast-forward
+5f32daa HEAD@{1}: checkout: moving from develop to master
+a44b3f6 HEAD@{2}: merge first: Fast-forward
+8231eab HEAD@{3}: checkout: moving from first to develop
+a44b3f6 HEAD@{4}: rebase -i (finish): returning to refs/heads/first
+a44b3f6 HEAD@{5}: rebase -i (pick): Adding a new image to images/
+a104c98 HEAD@{6}: commit (cherry-pick): Deleting an image from images2/
+f30c97e HEAD@{7}: rebase -i (pick): A few changes to test2.txt
+6f34aba HEAD@{8}: rebase -i (pick): Added test2.txt
+8231eab HEAD@{9}: rebase -i (start): checkout develop
+d3e87d4 HEAD@{10}: checkout: moving from second to first
+a5d37d4 HEAD@{11}: commit (amend): Adding a new text file and change commit message
+99b1939 HEAD@{12}: rebase -i (finish): returning to refs/heads/second
+99b1939 HEAD@{13}: rebase -i (pick): Adding a new text file
+5c487d9 HEAD@{14}: rebase -i (pick): Changing the image
+8f84ebf HEAD@{15}: rebase -i (pick): A few changes
+8231eab HEAD@{16}: rebase -i (start): checkout develop
+d96e93e HEAD@{17}: commit: Adding a new text file
+c826c12 HEAD@{18}: commit: Changing the image
+95f4372 HEAD@{19}: commit: A few changes
+5f32daa HEAD@{20}: checkout: moving from first to second
+d3e87d4 HEAD@{21}: commit: Adding a new image to images/
+185c26c HEAD@{22}: commit: Deleting an image from images2/
+6c4e286 HEAD@{23}: commit: A few changes to test2.txt
+0708df9 HEAD@{24}: commit: Added test2.txt
+d5ae7d0 HEAD@{25}: commit: Added images2
+5f32daa HEAD@{26}: checkout: moving from develop to first
+8231eab HEAD@{27}: commit: Making a few changes
+5f32daa HEAD@{28}: checkout: moving from master to develop
+5f32daa HEAD@{29}: merge develop: Fast-forward
+fc19eb5 HEAD@{30}: checkout: moving from release to master
+5f32daa HEAD@{31}: merge develop: Fast-forward
+5288582 HEAD@{32}: checkout: moving from test to release
+5f32daa HEAD@{33}: merge develop: Fast-forward
+2da63c9 HEAD@{34}: checkout: moving from develop to test
+5f32daa HEAD@{35}: merge release test: Merge made by the 'octopus' strategy.
+837cc4b HEAD@{36}: checkout: moving from release to develop
+5288582 HEAD@{37}: commit: Added styles.css file to the folder syles on release branch
+837cc4b HEAD@{38}: checkout: moving from develop to release
+837cc4b HEAD@{39}: checkout: moving from test to develop
+2da63c9 HEAD@{40}: commit: Changed index.html file
+a960146 HEAD@{41}: commit: Added folder Images with some images files on test branch
+837cc4b HEAD@{42}: checkout: moving from develop to test
+837cc4b HEAD@{43}: commit: Added index.html file into develop branch
+fc19eb5 HEAD@{44}: checkout: moving from master to develop
+fc19eb5 HEAD@{45}: commit (initial): Added readme.md file
